@@ -1,0 +1,29 @@
+.container-fluid {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    grid-template-columns: 100%;
+    min-height: 100vh;
+}
+
+.header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.body {
+    background-color: #f0f0f0;
+    overflow-y: auto;
+    padding: 20px;
+}
+
+
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.margin-b-2px{
+  margin-bottom: 2px;
+}
