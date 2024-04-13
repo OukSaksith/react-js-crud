@@ -1,1 +1,1 @@
-# react-js-crud
+# learn-purpose
